@@ -1,0 +1,15 @@
+artifact_uri: mlruns/945998280897565767/c207bcb207154204b2026f19ed77fcaf/artifacts
+end_time: 1674470460864
+entry_point_name: ''
+experiment_id: '945998280897565767'
+lifecycle_stage: active
+run_id: c207bcb207154204b2026f19ed77fcaf
+run_name: silent-bee-760
+run_uuid: c207bcb207154204b2026f19ed77fcaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674470450315
+status: 3
+tags: []
+user_id: mitali_

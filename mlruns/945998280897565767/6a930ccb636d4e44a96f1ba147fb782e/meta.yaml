@@ -1,0 +1,15 @@
+artifact_uri: mlruns/945998280897565767/6a930ccb636d4e44a96f1ba147fb782e/artifacts
+end_time: 1674470472303
+entry_point_name: ''
+experiment_id: '945998280897565767'
+lifecycle_stage: active
+run_id: 6a930ccb636d4e44a96f1ba147fb782e
+run_name: skillful-auk-158
+run_uuid: 6a930ccb636d4e44a96f1ba147fb782e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674470461015
+status: 3
+tags: []
+user_id: mitali_
