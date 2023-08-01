@@ -1,0 +1,15 @@
+artifact_uri: mlruns/945998280897565767/c2e4d2b00bbf4662a50dc15a59bc6482/artifacts
+end_time: 1674470414737
+entry_point_name: ''
+experiment_id: '945998280897565767'
+lifecycle_stage: active
+run_id: c2e4d2b00bbf4662a50dc15a59bc6482
+run_name: smiling-mare-381
+run_uuid: c2e4d2b00bbf4662a50dc15a59bc6482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674470403405
+status: 3
+tags: []
+user_id: mitali_
